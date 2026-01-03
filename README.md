@@ -14,6 +14,7 @@ Authentic solutions to Leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,5 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
