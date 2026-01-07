@@ -24,6 +24,7 @@ Authentic solutions to Leetcode problems
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Two Pointers
@@ -43,6 +44,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +79,9 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
