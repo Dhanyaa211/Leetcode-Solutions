@@ -11,6 +11,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -28,6 +29,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -50,6 +52,7 @@ Authentic solutions to Leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
