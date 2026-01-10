@@ -29,6 +29,7 @@ Authentic solutions to Leetcode problems
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Two Pointers
@@ -61,10 +62,12 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
