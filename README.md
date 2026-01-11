@@ -21,6 +21,7 @@ Authentic solutions to Leetcode problems
 | [0040-combination-sum-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -85,6 +87,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
@@ -112,4 +115,5 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
