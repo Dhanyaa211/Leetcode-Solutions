@@ -110,5 +110,6 @@ Authentic solutions to Leetcode problems
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
