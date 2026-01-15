@@ -9,6 +9,7 @@ Authentic solutions to Leetcode problems
 | [0009-palindrome-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ Authentic solutions to Leetcode problems
 | [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
