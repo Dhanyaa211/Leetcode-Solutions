@@ -103,6 +103,7 @@ Authentic solutions to Leetcode problems
 | [0063-unique-paths-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Authentic solutions to Leetcode problems
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
