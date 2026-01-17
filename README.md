@@ -11,6 +11,7 @@ Authentic solutions to Leetcode problems
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Authentic solutions to Leetcode problems
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Union Find
 |  |
 | ------- |
@@ -235,4 +237,8 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
