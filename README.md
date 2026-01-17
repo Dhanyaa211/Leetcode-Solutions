@@ -97,6 +97,7 @@ Authentic solutions to Leetcode problems
 | [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -129,6 +130,7 @@ Authentic solutions to Leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Authentic solutions to Leetcode problems
 | [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
