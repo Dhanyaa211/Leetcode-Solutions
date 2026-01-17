@@ -45,6 +45,7 @@ Authentic solutions to Leetcode problems
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -133,6 +134,7 @@ Authentic solutions to Leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -178,6 +180,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
