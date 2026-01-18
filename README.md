@@ -17,6 +17,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0018-4sum) |
@@ -81,6 +82,7 @@ Authentic solutions to Leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -153,6 +155,7 @@ Authentic solutions to Leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
