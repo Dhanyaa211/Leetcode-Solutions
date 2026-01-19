@@ -175,6 +175,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
