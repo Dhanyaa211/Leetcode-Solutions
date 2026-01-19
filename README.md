@@ -30,6 +30,7 @@ Authentic solutions to Leetcode problems
 | [0039-combination-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -77,6 +78,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -121,6 +123,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
