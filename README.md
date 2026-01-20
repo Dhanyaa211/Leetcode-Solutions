@@ -43,6 +43,7 @@ Authentic solutions to Leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -102,6 +103,7 @@ Authentic solutions to Leetcode problems
 | [0040-combination-sum-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Authentic solutions to Leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Hash Table
