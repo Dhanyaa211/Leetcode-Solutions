@@ -52,6 +52,7 @@ Authentic solutions to Leetcode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -94,6 +95,7 @@ Authentic solutions to Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
@@ -207,6 +209,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
@@ -274,4 +277,8 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
