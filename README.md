@@ -17,6 +17,7 @@ Authentic solutions to Leetcode problems
 | [0326-power-of-three](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ Authentic solutions to Leetcode problems
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Authentic solutions to Leetcode problems
 | [0054-spiral-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
@@ -239,6 +242,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -279,6 +283,7 @@ Authentic solutions to Leetcode problems
 | [0326-power-of-three](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
