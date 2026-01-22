@@ -15,6 +15,7 @@ Authentic solutions to Leetcode problems
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -149,6 +150,7 @@ Authentic solutions to Leetcode problems
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -275,6 +277,7 @@ Authentic solutions to Leetcode problems
 | [0206-reverse-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String Matching
