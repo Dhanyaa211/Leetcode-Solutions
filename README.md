@@ -11,6 +11,7 @@ Authentic solutions to Leetcode problems
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -145,6 +146,7 @@ Authentic solutions to Leetcode problems
 | [0078-subsets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Authentic solutions to Leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
