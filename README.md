@@ -128,6 +128,7 @@ Authentic solutions to Leetcode problems
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -156,6 +157,7 @@ Authentic solutions to Leetcode problems
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -172,6 +174,7 @@ Authentic solutions to Leetcode problems
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -223,6 +226,7 @@ Authentic solutions to Leetcode problems
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
