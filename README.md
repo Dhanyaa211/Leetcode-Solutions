@@ -12,6 +12,7 @@ Authentic solutions to Leetcode problems
 | [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0292-nim-game) |
