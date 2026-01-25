@@ -14,6 +14,7 @@ Authentic solutions to Leetcode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -63,6 +64,7 @@ Authentic solutions to Leetcode problems
 | [0169-majority-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -319,6 +321,7 @@ Authentic solutions to Leetcode problems
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Brainteaser
 |  |
@@ -336,4 +339,8 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
