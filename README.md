@@ -10,6 +10,7 @@ Authentic solutions to Leetcode problems
 | [0012-integer-to-roman](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -157,6 +158,7 @@ Authentic solutions to Leetcode problems
 | [0045-jump-game-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -346,4 +348,8 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
