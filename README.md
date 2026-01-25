@@ -180,6 +180,7 @@ Authentic solutions to Leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -233,6 +234,7 @@ Authentic solutions to Leetcode problems
 | [0168-excel-sheet-column-title](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
