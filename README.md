@@ -245,6 +245,7 @@ Authentic solutions to Leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
