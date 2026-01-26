@@ -286,6 +286,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Queue
 |  |
@@ -303,6 +304,7 @@ Authentic solutions to Leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -368,4 +370,12 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
