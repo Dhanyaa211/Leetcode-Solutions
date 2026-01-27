@@ -252,6 +252,7 @@ Authentic solutions to Leetcode problems
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Authentic solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
