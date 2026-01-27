@@ -33,6 +33,7 @@ Authentic solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
