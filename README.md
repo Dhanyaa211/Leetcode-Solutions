@@ -33,6 +33,7 @@ Authentic solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -263,6 +264,7 @@ Authentic solutions to Leetcode problems
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Union Find
 |  |
 | ------- |
