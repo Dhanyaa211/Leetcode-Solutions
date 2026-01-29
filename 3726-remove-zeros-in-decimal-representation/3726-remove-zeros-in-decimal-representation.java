@@ -1,0 +1,11 @@
+class Solution {
+    public long removeZeros(long n) {
+        String s=Long.toString(n);
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)!='0') sb.append(s.charAt(i));
+        }
+        if(sb.length()==0) return 0;
+        return Long.parseLong(sb.toString());
+    }
+}
