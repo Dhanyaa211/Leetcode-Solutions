@@ -33,6 +33,7 @@ Authentic solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -102,6 +103,7 @@ Authentic solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -180,6 +182,7 @@ Authentic solutions to Leetcode problems
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Authentic solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
 ## Matrix
 |  |
