@@ -34,6 +34,7 @@ Authentic solutions to Leetcode problems
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -181,6 +182,7 @@ Authentic solutions to Leetcode problems
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
