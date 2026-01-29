@@ -33,6 +33,7 @@ Authentic solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
@@ -117,6 +118,7 @@ Authentic solutions to Leetcode problems
 | [0344-reverse-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Authentic solutions to Leetcode problems
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +296,7 @@ Authentic solutions to Leetcode problems
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
