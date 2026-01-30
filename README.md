@@ -251,6 +251,7 @@ Authentic solutions to Leetcode problems
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
+| [3803-count-residue-prefixes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3803-count-residue-prefixes) |
 ## Matrix
 |  |
 | ------- |
@@ -320,6 +321,7 @@ Authentic solutions to Leetcode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3803-count-residue-prefixes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3803-count-residue-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
