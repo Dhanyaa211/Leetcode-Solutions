@@ -136,6 +136,7 @@ Authentic solutions to Leetcode problems
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Authentic solutions to Leetcode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3803-count-residue-prefixes) |
 ## Sliding Window
