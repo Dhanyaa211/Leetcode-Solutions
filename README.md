@@ -36,6 +36,7 @@ Authentic solutions to Leetcode problems
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -110,6 +111,7 @@ Authentic solutions to Leetcode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3697-compute-decimal-representation) |
