@@ -347,6 +347,7 @@ Authentic solutions to Leetcode problems
 | [0020-valid-parentheses](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Queue
 |  |
@@ -366,6 +367,7 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -440,11 +442,13 @@ Authentic solutions to Leetcode problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
