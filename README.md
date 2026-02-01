@@ -350,9 +350,11 @@ Authentic solutions to Leetcode problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
@@ -457,4 +459,8 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
