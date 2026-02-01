@@ -365,10 +365,12 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -437,10 +439,12 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Trie
 |  |
 | ------- |
