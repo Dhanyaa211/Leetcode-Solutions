@@ -144,6 +144,7 @@ Authentic solutions to Leetcode problems
 | [0045-jump-game-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Binary Search
@@ -318,6 +319,7 @@ Authentic solutions to Leetcode problems
 | [0344-reverse-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -352,6 +354,7 @@ Authentic solutions to Leetcode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Queue
 |  |
 | ------- |
@@ -388,6 +391,7 @@ Authentic solutions to Leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
