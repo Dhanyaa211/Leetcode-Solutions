@@ -324,6 +324,7 @@ Authentic solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -362,6 +363,7 @@ Authentic solutions to Leetcode problems
 | [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
