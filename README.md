@@ -409,6 +409,7 @@ Worked out solutions to Leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
