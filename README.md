@@ -108,6 +108,7 @@ Authentic solutions to Leetcode problems
 | [0485-max-consecutive-ones](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -363,6 +364,7 @@ Authentic solutions to Leetcode problems
 | [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -402,12 +404,14 @@ Authentic solutions to Leetcode problems
 | [0042-trapping-rain-water](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
