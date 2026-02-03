@@ -1,5 +1,5 @@
 # Leetcode-Solutions
-Authentic solutions to Leetcode problems
+Worked out solutions to Leetcode problems
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
