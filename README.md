@@ -113,6 +113,7 @@ Worked out solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -164,6 +165,7 @@ Worked out solutions to Leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Worked out solutions to Leetcode problems
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
