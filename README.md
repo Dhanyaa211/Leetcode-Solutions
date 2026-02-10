@@ -92,6 +92,7 @@ Worked out solutions to Leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -164,6 +165,7 @@ Worked out solutions to Leetcode problems
 | [0069-sqrtx](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
