@@ -147,6 +147,7 @@ Worked out solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Worked out solutions to Leetcode problems
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Worked out solutions to Leetcode problems
 | [3794-reverse-string-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3803-count-residue-prefixes) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
