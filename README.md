@@ -127,6 +127,7 @@ Worked out solutions to Leetcode problems
 | [3731-find-missing-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@ Worked out solutions to Leetcode problems
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Worked out solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
@@ -498,6 +501,7 @@ Worked out solutions to Leetcode problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Combinatorics
 |  |
