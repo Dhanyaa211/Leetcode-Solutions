@@ -129,6 +129,7 @@ Worked out solutions to Leetcode problems
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -215,6 +216,7 @@ Worked out solutions to Leetcode problems
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
