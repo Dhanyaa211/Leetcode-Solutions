@@ -199,6 +199,7 @@ Worked out solutions to Leetcode problems
 | [0047-permutations-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +263,7 @@ Worked out solutions to Leetcode problems
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
