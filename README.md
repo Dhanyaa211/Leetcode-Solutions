@@ -109,6 +109,7 @@ Worked out solutions to Leetcode problems
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -154,6 +155,7 @@ Worked out solutions to Leetcode problems
 | [0283-move-zeroes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -185,6 +187,7 @@ Worked out solutions to Leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -214,6 +217,7 @@ Worked out solutions to Leetcode problems
 | [0217-contains-duplicate](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -289,6 +293,7 @@ Worked out solutions to Leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
