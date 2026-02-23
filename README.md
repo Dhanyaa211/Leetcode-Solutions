@@ -277,6 +277,7 @@ Worked out solutions to Leetcode problems
 | [0070-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -291,6 +292,7 @@ Worked out solutions to Leetcode problems
 | [0190-reverse-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0401-binary-watch) |
