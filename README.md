@@ -118,6 +118,7 @@ Worked out solutions to Leetcode problems
 | [0506-relative-ranks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -210,6 +211,7 @@ Worked out solutions to Leetcode problems
 | [0441-arranging-coins](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
