@@ -205,6 +205,7 @@ Worked out solutions to Leetcode problems
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -614,4 +615,5 @@ Worked out solutions to Leetcode problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
