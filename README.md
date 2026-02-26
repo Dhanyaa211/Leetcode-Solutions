@@ -29,6 +29,7 @@ Worked out solutions to Leetcode problems
 | [0441-arranging-coins](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2235-add-two-integers) |
@@ -322,6 +323,7 @@ Worked out solutions to Leetcode problems
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
