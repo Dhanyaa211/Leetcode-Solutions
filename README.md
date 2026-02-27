@@ -487,6 +487,7 @@ Worked out solutions to Leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
@@ -627,6 +628,7 @@ Worked out solutions to Leetcode problems
 | [0155-min-stack](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
@@ -640,4 +642,8 @@ Worked out solutions to Leetcode problems
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
