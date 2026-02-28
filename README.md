@@ -151,6 +151,7 @@ Worked out solutions to Leetcode problems
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -342,6 +343,7 @@ Worked out solutions to Leetcode problems
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Hash Table
@@ -418,6 +420,7 @@ Worked out solutions to Leetcode problems
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
