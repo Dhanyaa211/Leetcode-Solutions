@@ -37,6 +37,7 @@ Worked out solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3516-find-closest-person) |
@@ -340,6 +341,7 @@ Worked out solutions to Leetcode problems
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Hash Table
