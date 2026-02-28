@@ -143,6 +143,7 @@ Worked out solutions to Leetcode problems
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3024-type-of-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -341,6 +342,7 @@ Worked out solutions to Leetcode problems
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -370,6 +372,7 @@ Worked out solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
