@@ -122,6 +122,7 @@ Worked out solutions to Leetcode problems
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -176,6 +177,7 @@ Worked out solutions to Leetcode problems
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -323,6 +325,7 @@ Worked out solutions to Leetcode problems
 | [0461-hamming-distance](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -377,6 +380,7 @@ Worked out solutions to Leetcode problems
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -396,6 +400,7 @@ Worked out solutions to Leetcode problems
 | [0059-spiral-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
