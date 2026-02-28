@@ -130,6 +130,7 @@ Worked out solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1720-decode-xored-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -330,6 +331,7 @@ Worked out solutions to Leetcode problems
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3827-count-monobit-integers) |
