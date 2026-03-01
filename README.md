@@ -138,6 +138,7 @@ Worked out solutions to Leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -292,6 +293,7 @@ Worked out solutions to Leetcode problems
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -340,6 +342,7 @@ Worked out solutions to Leetcode problems
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -372,6 +375,7 @@ Worked out solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
