@@ -223,6 +223,7 @@ Worked out solutions to Leetcode problems
 | [0162-find-peak-element](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -327,6 +328,7 @@ Worked out solutions to Leetcode problems
 | [0187-repeated-dna-sequences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -639,6 +641,7 @@ Worked out solutions to Leetcode problems
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -653,6 +656,7 @@ Worked out solutions to Leetcode problems
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Trie
 |  |
 | ------- |
