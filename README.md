@@ -126,6 +126,7 @@ Worked out solutions to Leetcode problems
 | [0506-relative-ranks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -438,6 +439,7 @@ Worked out solutions to Leetcode problems
 | [0067-add-binary](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -527,6 +529,7 @@ Worked out solutions to Leetcode problems
 | [0402-remove-k-digits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
