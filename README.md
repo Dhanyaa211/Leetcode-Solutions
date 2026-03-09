@@ -125,6 +125,7 @@ Worked out solutions to Leetcode problems
 | [0496-next-greater-element-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -388,6 +389,7 @@ Worked out solutions to Leetcode problems
 | [0389-find-the-difference](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
