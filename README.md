@@ -165,6 +165,7 @@ Worked out solutions to Leetcode problems
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -448,6 +449,7 @@ Worked out solutions to Leetcode problems
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
