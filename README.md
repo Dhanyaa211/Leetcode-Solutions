@@ -151,6 +151,7 @@ Worked out solutions to Leetcode problems
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -290,6 +291,7 @@ Worked out solutions to Leetcode problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -404,6 +406,7 @@ Worked out solutions to Leetcode problems
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -502,6 +505,7 @@ Worked out solutions to Leetcode problems
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3692-majority-frequency-characters](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3692-majority-frequency-characters) |
