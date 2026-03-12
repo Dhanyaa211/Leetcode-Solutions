@@ -29,6 +29,7 @@ Worked out solutions to Leetcode problems
 | [0441-arranging-coins](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -334,6 +335,7 @@ Worked out solutions to Leetcode problems
 | [0338-counting-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -652,6 +654,7 @@ Worked out solutions to Leetcode problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
