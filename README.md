@@ -135,6 +135,7 @@ Worked out solutions to Leetcode problems
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +208,7 @@ Worked out solutions to Leetcode problems
 | [0680-valid-palindrome-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -295,6 +297,7 @@ Worked out solutions to Leetcode problems
 | [0455-assign-cookies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
