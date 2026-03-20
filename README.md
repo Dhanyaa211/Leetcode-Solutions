@@ -604,6 +604,7 @@ Worked out solutions to Leetcode problems
 | [0101-symmetric-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -616,6 +617,7 @@ Worked out solutions to Leetcode problems
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
@@ -709,6 +711,7 @@ Worked out solutions to Leetcode problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -724,6 +727,7 @@ Worked out solutions to Leetcode problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
