@@ -214,6 +214,7 @@ Worked out solutions to Leetcode problems
 | [0942-di-string-match](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -530,6 +531,7 @@ Worked out solutions to Leetcode problems
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
