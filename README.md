@@ -156,6 +156,7 @@ Worked out solutions to Leetcode problems
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -218,6 +219,7 @@ Worked out solutions to Leetcode problems
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -479,6 +481,7 @@ Worked out solutions to Leetcode problems
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2460-apply-operations-to-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
