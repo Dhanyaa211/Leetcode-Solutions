@@ -766,4 +766,8 @@ Worked out solutions to Leetcode problems
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
