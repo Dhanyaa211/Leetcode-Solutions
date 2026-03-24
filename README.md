@@ -769,5 +769,6 @@ Worked out solutions to Leetcode problems
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
