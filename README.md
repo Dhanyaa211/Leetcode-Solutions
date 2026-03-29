@@ -777,4 +777,5 @@ Worked out solutions to Leetcode problems
 | [0596-classes-with-at-least-5-students](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
