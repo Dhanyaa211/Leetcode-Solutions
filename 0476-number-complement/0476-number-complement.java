@@ -1,12 +1,28 @@
 class Solution {
     public int findComplement(int num) {
-        String numb=Integer.toBinaryString(num);
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<numb.length();i++){
-            if(numb.charAt(i)=='0') sb.append("1");
-            else sb.append("0");
+        String s="";
+        int temp=num;
+        while(temp>0){
+            s=(temp%2)+s;
+            temp/=2;
         }
-        int ans = Integer.parseInt(sb.toString(), 2);
-        return ans;
+        String flip="";
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='0'){
+                flip+='1';
+            }
+            else{
+                flip+='0';
+            }
+        }
+        int result=0;
+        int power=1;
+        for(int i=flip.length()-1;i>=0;i--){
+            if(flip.charAt(i)=='1'){
+                result+=power;
+            }
+            power*=2;
+        }
+        return result;
     }
 }
