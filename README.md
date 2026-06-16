@@ -55,6 +55,7 @@ Worked out solutions to Leetcode problems
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
 ## Array
@@ -185,6 +186,7 @@ Worked out solutions to Leetcode problems
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -679,6 +681,7 @@ Worked out solutions to Leetcode problems
 | [2413-smallest-even-multiple](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Brainteaser
 |  |
 | ------- |
