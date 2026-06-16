@@ -134,6 +134,7 @@ Worked out solutions to Leetcode problems
 | [0575-distribute-candies](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -697,6 +698,7 @@ Worked out solutions to Leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanyaa211/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
